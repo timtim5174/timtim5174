@@ -2,7 +2,7 @@
 #### Frontend and Backend developer
 ![Frontend and Backend developer](https://images.unsplash.com/photo-1503252947848-7338d3f92f31?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2662&q=80)
 
-I'm Tim from germany, and I'm working as a Fullstack developer for [edyoucated](https://edyoucated.org/) in Münster. Currently I'm focused on the topics like Angular and AWS to handle my daily tasks, but I'm not limited to this. Learning new technologies and concepts to improve your skills is what I really enjoy in being a developer.
+My name is Tim and I'm currently working as a Fullstack Developer at [edyoucated](https://edyoucated.org/) in Münster. Currently I'm working mainly with Angular and AWS, but I'm also open for further technologies. As a software developer, I therefore have especially great fun in learning and applying new technologies and concepts.
 
 Skills in business: Nodejs / Javascript / Typescript / Angular / AWS
 
