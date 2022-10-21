@@ -4,9 +4,11 @@
 
 My name is Tim and I'm currently working as a Fullstack Developer at [edyoucated](https://edyoucated.org/) in Münster. Currently I'm working mainly with Angular and AWS, but I'm also open for further technologies. As a software developer, I therefore have especially great fun in learning and applying new technologies and concepts.
 
-Skills in business: Nodejs / Javascript / Typescript / Angular / AWS
+Currently: Nodejs / Javascript / Typescript / Angular / AWS
 
-Additional skills: Java / Python / Express / Nestjs / Spring / MongoDB
+Additional: Java / Spring / Express / Nestjs / MongoDB / Docker
+
+Learn: Dart + Flutter / Kotlin
 
 
 
