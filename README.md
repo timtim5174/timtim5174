@@ -38,5 +38,3 @@ My name is Tim and I'm currently working as a Fullstack Developer at [group24](h
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timtim5174)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=timtim5174&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/timtim5174)  
