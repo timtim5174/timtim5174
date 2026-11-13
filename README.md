@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2995&pause=500&color=49C0A4&background=2A2A2A00&width=600&lines=Hi+there+%F0%9F%91%8B;My+name+is+Tim+and+I'm+a+Fullstack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2995&pause=500&color=49C0A4&background=2A2A2A00&width=600&lines=Hi+there+%F0%9F%91%8B;My+name+is+Tim+and+I'm+a+AI-Solution+Architect)](https://git.io/typing-svg)
 
 ![Frontend and Backend developer](https://images.unsplash.com/photo-1503252947848-7338d3f92f31?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2662&q=80)
 
