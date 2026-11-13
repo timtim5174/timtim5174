@@ -2,7 +2,8 @@
 
 ![Frontend and Backend developer](https://images.unsplash.com/photo-1503252947848-7338d3f92f31?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2662&q=80)
 
-My name is Tim and I'm currently working as a Fullstack Developer at [group24](https://www.group24.de/) in Gescher. Currently I'm working mainly with Angular and Nextjs, but I'm also open for further technologies. As a software developer, I therefore have especially great fun in learning and applying new technologies and concepts.
+My name is Tim and I am currently working as an AI Solution Architect at
+[group24 AG](https://www.group24.de/). Previously, I worked as a full-stack developer and, as well as developing features, I was also responsible for architectural matters and organising the team. My technical background continues to shape the way I work to this day: I’m fascinated by new technologies and concepts. I see my strength in learning these and applying them in practice.
 
 
 [![My Skills](https://skillicons.dev/icons?i=angular,astro,aws,bun,css,cypress,deno,docker,express,figma,git,github,graphql,html,java,js,nestjs,nextjs,react,phpstorm,prisma,redux,tailwind&theme=dark)](https://skillicons.dev)
